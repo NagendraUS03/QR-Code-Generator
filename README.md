@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
-# QR Code Generator with Unique Citizen ID
+## QR Code Generator with Unique Citizen ID
 
 This project generates QR codes that, when scanned, display a unique JSON object containing a `citizenId`. Additionally, the QR code image includes a custom message and name below it.
 
