@@ -41,11 +41,11 @@ bash
 pip install qrcode[pil]
 
 **File Structure**
-qr-code-generator/
-│
-├── gen_qr.py          # Main script to generate QR codes
-├── README.md          # Project documentation
-└── output/            # Folder to store generated QR code images
+  qr-code-generator/
+  │
+  ├── gen_qr.py          # Main script to generate QR codes
+  ├── README.md          # Project documentation
+  └── output/            # Folder to store generated QR code images
 
 **Execution Steps**
 1. *Run the Python Script* Use the following command to execute the script and generate QR codes:
@@ -89,4 +89,4 @@ font = ImageFont.load_default()
 Increase box_size to a higher value (e.g., box_size=15) to make the QR code more scannable.
 
 **Contributing**
-Feel free to fork this repository and submit pull requests. Contributions are welcome!
+  Feel free to fork this repository and submit pull requests. Contributions are welcome!
