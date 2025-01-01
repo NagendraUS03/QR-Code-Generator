@@ -4,8 +4,6 @@
 
 This project generates QR codes that, when scanned, display a unique JSON object containing a `citizenId`. Additionally, the QR code image includes a custom message and name below it.
 
----
-
 ## Features
 - Generates a unique `citizenId` for each QR code using Python's `uuid` module.
 - Embeds the `citizenId` into the QR code in JSON format.
