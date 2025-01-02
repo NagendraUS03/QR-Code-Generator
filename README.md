@@ -20,7 +20,6 @@ Before you start, make sure you have the following installed:
    - `qrcode`
    - `Pillow` (PIL)
 
----
 
 ## Installation Steps
 
